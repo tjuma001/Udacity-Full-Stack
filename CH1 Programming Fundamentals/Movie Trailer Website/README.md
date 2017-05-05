@@ -14,7 +14,7 @@ How to Run Project
 1. Open Git Bash
 2. Clone into this repo by: https://github.com/tjuma001/Udacity-Full-Stack.git
 3. Change the directory to the Movie Trailer Website by:
-<style type ="text/css">
+<style>
 p {
   text-indent: 50px;
 }
