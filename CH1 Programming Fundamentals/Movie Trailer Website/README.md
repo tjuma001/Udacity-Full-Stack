@@ -14,8 +14,8 @@ How to Run Project
 1. Open Git Bash
 2. Clone into this repo by: https://github.com/tjuma001/Udacity-Full-Stack.git
 3. Change the directory to the Movie Trailer Website by:
-  1. cd Udacity-Full-Stack/
-  2. cd cd CH1\ Programming\ Fundamentals/\
-  3. cd Movie\ Trailer\ Website/
+  * cd Udacity-Full-Stack/
+  * cd cd CH1\ Programming\ Fundamentals/\
+  * cd Movie\ Trailer\ Website/
   
 4. Type the command "python entertainment_center.py" which will then open a new browser with the movies displayed
